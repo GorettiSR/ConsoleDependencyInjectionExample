@@ -49,7 +49,7 @@ namespace ConsoleDependencyInjectionExampleTests
         }
 
         [TestMethod]
-        public void test() { }
+        public void test() {   }
         #endregion
     }
 }
