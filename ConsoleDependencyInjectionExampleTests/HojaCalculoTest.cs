@@ -48,8 +48,11 @@ namespace ConsoleDependencyInjectionExampleTests
             Assert.AreEqual(resultadoEsperado, resultadoObtenido);
         }
 
+<<<<<<< HEAD
         [TestMethod]
         public void test() {   }
+=======
+>>>>>>> 2cded5dbdb11cdae9e316a11f06da88da43c8c22
         #endregion
     }
 }
